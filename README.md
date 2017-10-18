@@ -6,4 +6,4 @@ A remake of the DemoApp from the Apple Store. Videos provided by Reddit user [u/
 Developed for iOS 11.0 in Xcode 9 (9A235).
 
 ## How to use
-DemoApp will automatically start playing the iPhone 8 demo video on launch. To change what video is playing, ***shake your device*** and choose the desired video from the menu.
+DemoApp will automatically start playing the iPhone 8 demo video on first launch. To change what video is playing, ***shake your device*** and choose the desired video from the menu. The chosen video will then begin playing on further launches.
