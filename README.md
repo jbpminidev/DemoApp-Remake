@@ -18,7 +18,7 @@ This app has a deployment target of iOS 11.0. Therefore, to run the app, [you ne
 ## How to Install
 This app requires a Mac running Xcode 9 or later to be built. Once it's installed, click the green "Clone or Download" button at the top of this page, and then click "Open in Xcode". Build the target, plug in your device, and run!
 
-*NOTE: You may need to change the Bundle Identifier to sign this app and run it on your device. Find it under DemoApp-Remake.xcodeproj > General > Identity > Bundle Identifier. *
+*NOTE: You may need to change the Bundle Identifier to sign this app and run it on your device. Find it under DemoApp-Remake.xcodeproj > General > Identity > Bundle Identifier.*
 
 ## Credits & Developer Notes
 ### Developers
