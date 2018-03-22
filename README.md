@@ -23,6 +23,10 @@ Features to look forward to in future updates to the app:
  * Splash screen on first launch
  * UI improvements
  * General bug fixes
+ 
+ ##Latest version is Screen Saver 2.0.1:
+ 
+ This update includes general software improvements and fixes bugs including an issue where scrolling performance could be impacted when in the Change Video selection screen.
 
 ## Compatibility
 This app has a deployment target of iOS 11.0. Therefore, to run the app, [you need a device supported by iOS 11](https://www.macrumors.com/2017/06/06/ios-11-compatible-iphone-ipad-ipod-models/).
