@@ -1,5 +1,5 @@
-# DemoApp-Remake
-**ScreenSaverRemake provides the simulation of an Apple Store demo device by playing its featured video. And in the future, depending on your device, it will feature new hardware specific features from that device, or the new version of iOS that the device comes with. Touch ID/Face ID demo app and a "Pricing" app will also be provided soon, so keep an eye on this space.**
+# Screen Saver Remake
+**ScreenSaverRemake provides the simulation of an Apple Store demo device by playing its featured video. And in the future, depending on your device, it will feature new hardware specific features from that device, or the new version of iOS that the device comes with.**
 
 ## Features 
  * Allows you to change the video playing by shaking the device
@@ -11,6 +11,18 @@ Features to look forward to in future updates to the app:
  * New icon and design interfaces 
  * iPod touch support
  * iPad Pro support for 9.7”, then in a future software update, support for 12.9” iPad Pro will be added.
+ 
+ The app will be updated soon to support:
+ * New Settings (Beta) menu
+ * 3D touch quick actions
+ * Performance improvements
+ * Default Demo video
+ * Support for Apple Watch
+ * Full iOS 11.3 support
+ * Shake to change is replaced by a tap (more soon)
+ * Splash screen on first launch
+ * UI improvements
+ * General bug fixes
 
 ## Compatibility
 This app has a deployment target of iOS 11.0. Therefore, to run the app, [you need a device supported by iOS 11](https://www.macrumors.com/2017/06/06/ios-11-compatible-iphone-ipad-ipod-models/).
@@ -25,4 +37,4 @@ This app requires a Mac running Xcode 9 or later to be built. Once it's installe
  * [@Wilsonator5000](https://github.com/Wilsonator5000) • [Reddit](https://www.reddit.com/user/wilsonator5000-dev)
  * [@appleretail](https://github.com/appleretail) • [Reddit](https://www.reddit.com/user/berry_vis3107)
  
-For app feedback, please visit https://www.devapple.weebly.com/ScreenSaverRemake/feedback. We'll read all feedback and we will contact you directly if needed.
+For app feedback, please visit https://www.devapple.weebly.com/feedback. We'll read all feedback and we will contact you directly if needed.
